@@ -1,11 +1,6 @@
 OracleDB + Node.js Project
 This project demonstrates how to connect a Node.js application to an Oracle Database 21c XE using the oracledb library. It includes a simple use case for inserting and retrieving user data.
 📁 Project Structure
-project/
-├── index.js
-├── package.json
-├── .gitignore
-└── README.md
 
 🧑‍💻 Prerequisites
 
